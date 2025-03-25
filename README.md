@@ -22,10 +22,11 @@ TECH STACK
  c) Functionalities: DOM Manipulation, Event Handling
 
  PROJECT STRUCTURE
+ 
  index.html → Main HTML structure
 
  styles.css → Styling for the UI
 
  script.js → JavaScript logic (task handling)
 
-
+This project strengthened my JavaScript skills, UI design understanding, and project management abilities, making me more confident in front-end development.
